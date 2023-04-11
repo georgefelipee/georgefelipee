@@ -1,10 +1,9 @@
 # 👩‍💻 George Felipe aqui :))
 
-<ul>
-  <li>Desenvolvedor web full stack  </li>
-  
-</ul>
-<h4>💻 Tecnologias que aprendi</h4> 
+
+   <h3> Desenvolvedor web full stack </h3> 
+
+<h4>💻 Tecnologias que domino</h4> 
 
 <div style="display: inline"> 
  <img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -25,6 +24,9 @@
           
 </div>
  
-          
+<h4> Minhas redes sociais </h4>
+<a href="https://www.linkedin.com/in/george-felipe-82782120a/" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
+###
 
+<h4> Confira alguns projetos fixados logo abaixo 👇	  </h4>

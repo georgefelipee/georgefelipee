@@ -1,7 +1,6 @@
-# 👩‍💻 George Felipe aqui :))
+# 🙂 George Felipe aqui :))
 
-
-   <h3> Desenvolvedor web full stack </h3> 
+ <h3> 💻 Desenvolvedor web full stack </h3> 
 
 <h4>💻 Tecnologias que domino</h4> 
 

@@ -2,7 +2,7 @@
 
 <h3>Sou Desenvolvedor web full stack com expêrencia em React, Typescript, Nodejs, Express, MySql, Mongo DB, Html, Css, Tailwind , Material UI.</h3>
 
-<h4>💻 Tecnologias que aprendi</h4> 
+<h5>💻 Tecnologias que aprendi</h5> 
 
 <div style="display: inline"> 
  <img widht="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />

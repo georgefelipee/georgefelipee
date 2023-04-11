@@ -1,7 +1,18 @@
 # 👩‍💻 George Felipe aqui :))
 
-<h3>Sou Desenvolvedor web full stack com expêrencia em React, Typescript, Nodejs, Express, MySql, Mongo DB, Html, Css, Tailwind , Material UI.</h3>
-
+<h3> Desenvolvedor web full stack</h3>
+<ul>
+  <li> React </li>
+  <li> Typescript </li>
+  <li> Nodejs</li>
+  <li> Express </li>
+  <li> MySql</li>
+  <li> Mongo DB</li>
+  <li>  Html</li>
+  <li>  Css</li>
+  <li>  Tailwind</li> 
+ <li> Material UI.</li>
+</ul>
 <h4>💻 Tecnologias que aprendi</h4> 
 
 <div style="display: inline"> 

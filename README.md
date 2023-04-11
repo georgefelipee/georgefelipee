@@ -1,17 +1,8 @@
 # 👩‍💻 George Felipe aqui :))
 
-<h3> Desenvolvedor web full stack</h3>
 <ul>
-  <li> React </li>
-  <li> Typescript </li>
-  <li> Nodejs</li>
-  <li> Express </li>
-  <li> MySql</li>
-  <li> Mongo DB</li>
-  <li>  Html</li>
-  <li>  Css</li>
-  <li>  Tailwind</li> 
- <li> Material UI.</li>
+  <li>Desenvolvedor web full stack  </li>
+  
 </ul>
 <h4>💻 Tecnologias que aprendi</h4> 
 

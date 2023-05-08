@@ -24,7 +24,7 @@
 </div>
  
 <h4> Minhas redes sociais </h4>
-<a href="https://www.linkedin.com/in/george-felipe-82782120a/" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a  widht="70" height="70" href="https://www.linkedin.com/in/george-felipe-82782120a/" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ###
 

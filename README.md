@@ -26,7 +26,10 @@ Gosto de explorar novas ferramentas, contribuir com projetos inovadores e ajudar
   <img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
  
 </div>
-        
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)  
+
 ## 🌐 Minhas redes sociais
 
 Fique à vontade para se conectar comigo:
@@ -34,3 +37,6 @@ Fique à vontade para se conectar comigo:
 [![Linkedin Badge](https://img.shields.io/badge/-George%20Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-felipe-82782120a/)](https://www.linkedin.com/in/george-felipe-82782120a/)
 
 
+
+![georgefelipee's Stats](https://github-readme-stats.vercel.app/api?username=georgefelipee&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![georgefelipee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgefelipee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

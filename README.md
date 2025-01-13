@@ -1,30 +1,34 @@
-# 🙂 George Felipe aqui :))
+# 🙂 Olá, eu sou George Felipe!
 
- <h3> Desenvolvedor web full stack </h3> 
+<h3>Desenvolvedor Web Full Stack 🚀</h3>
 
-<h4>💻 Tecnologias que domino</h4> 
+Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de explorar novas ferramentas, contribuir com projetos inovadores e ajudar a resolver problemas através de soluções criativas. Aqui você encontrará alguns dos meus projetos e as tecnologias com as quais trabalho no dia a dia.
 
-<div style="display: inline">
-  <img width="70" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  
-  <img width="70" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
-  <img width="60" height="60" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  
-  <img width="70" height="70" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  
-  <img width="70" height="70" style="margin-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  
-  <img width="50" height="50" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  
-  <img width="70" height="70" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  
-  <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+## 💻 Tecnologias e ferramentas
 
-<h4> Minhas redes sociais </h4>
-<a  widht="70" height="70" href="https://www.linkedin.com/in/george-felipe-82782120a/" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-###
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<h4> Confira alguns projetos fixados logo abaixo 👇	  </h4>
+## 🌐 Minhas redes sociais
+
+Fique à vontade para se conectar comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-George%20Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-felipe-82782120a/)](https://www.linkedin.com/in/george-felipe-82782120a/)
+
+
